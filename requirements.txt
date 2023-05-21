@@ -1,0 +1,8 @@
+# Numpy removes np.int alias - breaking brainextractor module
+numpy<=1.23
+dicom2nifti
+nilearn
+SimpleITK
+brainextractor
+pyvista
+
