@@ -1,5 +1,7 @@
 #  MRI Toolbox
 
+This repository was developed as a part of a job interview for Alzheimer-detecting diagnosis system.
+
 The `mri-toolbox` is a Python 3 module equipped with CLI scripts. The module offers the following capabilities:
  - Conversion of DICOM to NifTI files.
  - Reshaping and resizing of NifTi images.
